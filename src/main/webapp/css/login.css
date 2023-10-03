@@ -1,0 +1,36 @@
+#information-space {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra verticalmente */
+    align-items: center; /* Centra horizontalmente */
+    text-align: center;
+}
+
+body {
+    background-color: #202121;
+    height: 100vh; /* Cambia a viewport height para ocupar all el alto de la ventana */
+    margin: 0; /* Elimina el margen predeterminado del cuerpo */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra verticalmente */
+    align-items: center; /* Centra horizontalmente */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra verticalmente */
+    align-items: center; /* Centra horizontalmente */
+}
+
+div {
+    margin: 7px;
+}
+
+#log-title {
+    margin-bottom: 30px;
+}
+
+#log-button {
+    margin-top: 20px;
+}
